@@ -1,0 +1,29 @@
+
+body{
+    background-image: url('img/stanos-uC_z7qWZB5w-unsplash.jpg');
+   
+   
+}
+
+
+.form-class{
+    margin-left:30px;
+}
+
+.carousel-image {
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.Terms{
+    margin-top: -10px;
+}
+input.check{
+   
+    width: 20px;
+    height: 20px;
+}
+/* .modal{
+    color: bisque;
+} */
