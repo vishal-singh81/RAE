@@ -24,6 +24,9 @@ input.check{
     width: 20px;
     height: 20px;
 }
-/* .modal{
-    color: bisque;
-} */
+.modal-body p{
+    font-size: small;
+}
+.sizing{
+    font-weight: bold;
+}
